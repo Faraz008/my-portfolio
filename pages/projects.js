@@ -24,9 +24,9 @@ export default function Projects() {
       id: 3,
       title: "Personal Portfolio Website",
       description: "A multi-page portfolio built using Next.js to showcase personal information, projects, and contact details.",
-      technologies: ["Next.js", "Tailwind CSS"],
-      githubLink: "https://github.com/Faraz008/nextjs-portfolio",
-      liveDemo: "https://your-vercel-link.vercel.app",
+      technologies: ["NextJs", "Tailwind CSS"],
+      githubLink: "https://github.com/Faraz008/my-portfolio",
+      liveDemo: "https://my-portfolio-azure-xi-23.vercel.app/",
       status: "Ongoing"
 
     }
