@@ -15,7 +15,7 @@ export default function About() {
               Hello!
             </h2>
             <p className="text-gray-600 mb-4 leading-relaxed">
-              I ām passionate about creating digital experiences that make a difference. 
+              I am passionate about creating digital experiences that make a difference. 
               With a background in computer science and a love for clean, efficient code, 
               I enjoy building applications that solve real-world problems.
             </p>
