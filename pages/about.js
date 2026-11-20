@@ -35,7 +35,7 @@ export default function About() {
               Skills & Technologies
             </h3>
             <div className="flex flex-wrap gap-2 mb-6">
-              {['JavaScript', 'React', 'Next.js', 'Node.js', 'Python', 'Git', 'HTML/CSS', 'MongoDB'].map((skill) => (
+              {['JavaScript', 'React', 'Next.js', 'Node.js', 'Python', 'Git', 'HTML/CSS', 'MongoDB', "Python","Asyncio","Redis","distributed-systems","Gossip-Protocol", "LLM", "FastAPI", "Pydantic","ML", "EDA", "Feature Engineering"].map((skill) => (
                 <span key={skill} className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">
                   {skill}
                 </span>
@@ -46,18 +46,18 @@ export default function About() {
               Hobbies & Interests
             </h3>
             <ul className="space-y-2 text-gray-600">
-              <li>📚 Reading tech blogs and staying updated with industry trends</li>
+              <li>📚 Reading tech blogs and staying updated with industry trends and AI.</li>
               <li>🎮 Gaming and exploring interactive experiences</li>
-              <li>🌱 Learning new programming languages and frameworks</li>
+              <li>🌱 Learning new programming languages and frameworks.</li>
             </ul>
 
             <h3 className="text-xl font-semibold text-gray-700 mb-4 mt-6">
               Career Goals
             </h3>
             <p className="text-gray-600">
-              I aim to become a full-stack developer who can contribute to 
+              I aim to become a full-stack developer/AI Engineer who can contribute to 
               meaningful projects that have a positive impact on peoples lives. 
-              Im particularly interested in sustainable technology and 
+              Im particularly interested in sustainable AI technology and 
               accessibility in web development.
             </p>
           </div>

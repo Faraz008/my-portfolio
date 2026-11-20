@@ -4,30 +4,29 @@ export default function Projects() {
   const projects = [
     {
       id: 1,
-      title: "Study Buddy",
-      description: "A MERN-based collaborative platform where students can share notes, ask doubts, and access subject-specific resources through an intuitive interface.",
-      technologies: ["MongoDB", "Express.js", "React", "Node.js"],
-      githubLink: "https://github.com/Faraz008/Study_Buddy",
+      title: "Self-Heal Cache Distributed System",
+      description: "A lightweight, self-healing distributed in-memory cache built from scratch in Python using asyncio, consistent hashing, replication, gossip-based failure detection and read repair",
+      technologies: ["Python","Asyncio","Redis","distributed-systems","Gossip-Protocol"],
+      githubLink: "https://github.com/Faraz008/selfheal-cache",
+      liveDemo: "https://github.com/Faraz008/selfheal-cache",
       status: "Completed"
     },
     {
       id: 2,
-      title: "Transaction Management",
-      description: "A simple RESTful API for creating, reading, updating, and deleting user Transactions using Typecript, Node.js, Express, and MongoDB.",
-      technologies: ["Typescript", "Node.js", "Express.js", "MongoDB"],
-      githubLink: "https://github.com/Faraz008/transac-mgmt",
-      liveDemo: "https://transac-mgmt.vercel.app/",
+      title: "Meeting Co-Pilot",
+      description: "Turn meeting transcripts into reviewed, evidence-grounded action items, decisions and open questions, then push approved ones to Notion/Jira. Free stack, measured on a held-out benchmark.",
+      technologies: ["LLM", "Structured-Output", "Evaluation", "FastAPI", "Streamlit", "Notion", "Jira", "Python", "Pydantic", "LLM-Evaluation"],
+      githubLink: "https://https://github.com/Faraz008/meeting-copilot",
+      liveDemo: "https://https://github.com/Faraz008/meeting-copilot",
       status: "Completed"
 
     },
     {
       id: 3,
-      title: "Personal Portfolio Website",
-      description: "A multi-page portfolio built using Next.js to showcase personal information, projects, and contact details.",
-      technologies: ["NextJs", "Tailwind CSS"],
-      githubLink: "https://github.com/Faraz008/my-portfolio",
-      liveDemo: "https://my-portfolio-azure-xi-23.vercel.app/",
-      status: "Ongoing"
+      title: "Instagram Reach Analysis",
+      description: "Machine learning project to analyze Instagram post engagement and classify posts into low, medium, or high engagement categories using data collection, exploratory data analysis, feature engineering, model training, and deployment.",
+      technologies: ["machine-learning", "data-science", "engagement-analysis", "classification", "python", "data-analysis","eda","feature engineering", "scikit-learn","instaloader", "model-deployment"],
+      status: "Completed"
 
     }
   ];

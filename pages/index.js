@@ -16,7 +16,7 @@ export default function Home() {
               Hi, My name is <span className="text-blue-600 font-semibold">Faraz</span>
             </h2>
             <p className="text-lg text-gray-700 max-w-2xl mx-auto leading-relaxed">
-              I specialize in modern web technologies and
+              I specialize in Artificial Intelligence or modern web technologies and
               enjoy turning ideas into reality through code.
             </p>
           </div>
