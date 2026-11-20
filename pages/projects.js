@@ -16,8 +16,8 @@ export default function Projects() {
       title: "Meeting Co-Pilot",
       description: "Turn meeting transcripts into reviewed, evidence-grounded action items, decisions and open questions, then push approved ones to Notion/Jira. Free stack, measured on a held-out benchmark.",
       technologies: ["LLM", "Structured-Output", "Evaluation", "FastAPI", "Streamlit", "Notion", "Jira", "Python", "Pydantic", "LLM-Evaluation"],
-      githubLink: "https://https://github.com/Faraz008/meeting-copilot",
-      liveDemo: "https://https://github.com/Faraz008/meeting-copilot",
+      githubLink: "https://github.com/Faraz008/meeting-copilot",
+      liveDemo: "https://github.com/Faraz008/meeting-copilot",
       status: "Completed"
 
     },
